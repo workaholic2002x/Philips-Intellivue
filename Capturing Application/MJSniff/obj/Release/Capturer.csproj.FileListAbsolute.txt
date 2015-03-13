@@ -1,0 +1,7 @@
+E:\AIIMS\Philips\Capturing Application\MJSniff\bin\Release\capture.exe
+E:\AIIMS\Philips\Capturing Application\MJSniff\bin\Release\capture.pdb
+E:\AIIMS\Philips\Capturing Application\MJSniff\obj\Release\capture.capturerForm.resources
+E:\AIIMS\Philips\Capturing Application\MJSniff\obj\Release\capture.Properties.Resources.resources
+E:\AIIMS\Philips\Capturing Application\MJSniff\obj\Release\Capturer.csproj.GenerateResource.Cache
+E:\AIIMS\Philips\Capturing Application\MJSniff\obj\Release\capture.exe
+E:\AIIMS\Philips\Capturing Application\MJSniff\obj\Release\capture.pdb

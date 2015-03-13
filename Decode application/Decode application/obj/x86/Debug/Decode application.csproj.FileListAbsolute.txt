@@ -1,0 +1,8 @@
+E:\AIIMS\Decode Net\Decode application\Decode application\bin\Debug\Decode application.exe
+E:\AIIMS\Decode Net\Decode application\Decode application\bin\Debug\Decode application.pdb
+E:\AIIMS\Decode Net\Decode application\Decode application\obj\x86\Debug\Decode_application.Form1.resources
+E:\AIIMS\Decode Net\Decode application\Decode application\obj\x86\Debug\Decode_application.Properties.Resources.resources
+E:\AIIMS\Decode Net\Decode application\Decode application\obj\x86\Debug\Decode application.csproj.GenerateResource.Cache
+E:\AIIMS\Decode Net\Decode application\Decode application\obj\x86\Debug\Decode application.exe
+E:\AIIMS\Decode Net\Decode application\Decode application\obj\x86\Debug\Decode application.pdb
+E:\AIIMS\Decode Net\Decode application\Decode application\obj\x86\Debug\Decode application.csprojResolveAssemblyReference.cache

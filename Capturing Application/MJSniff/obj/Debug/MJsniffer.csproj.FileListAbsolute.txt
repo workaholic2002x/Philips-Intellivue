@@ -1,0 +1,18 @@
+E:\AIIMS\sniff\MJsniffer\MJSniffer\MJSniff\bin\Debug\MJSniff.exe
+E:\AIIMS\sniff\MJsniffer\MJSniffer\MJSniff\bin\Debug\MJSniff.pdb
+E:\AIIMS\sniff\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJsniffer.MJsnifferForm.resources
+E:\AIIMS\sniff\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJSniff.Properties.Resources.resources
+E:\AIIMS\sniff\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJsniffer.csproj.GenerateResource.Cache
+E:\AIIMS\sniff\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJSniff.exe
+E:\AIIMS\sniff\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJSniff.pdb
+E:\AIIMS\sniff\MJsniffer\MJSniffer\MJSniff\obj\Debug\MJsniffer.csprojResolveAssemblyReference.cache
+E:\AIIMS\sniff\MJsniffer\MJSniffer_29_09_2014\MJSniff\obj\Debug\MJSniff.exe
+E:\AIIMS\sniff\MJsniffer\MJSniffer_29_09_2014\MJSniff\obj\Debug\MJSniff.pdb
+E:\AIIMS\sniff\MJsniffer\MJSniffer_29_09_2014\MJSniff\bin\Debug\MJSniff.exe
+E:\AIIMS\sniff\MJsniffer\MJSniffer_29_09_2014\MJSniff\bin\Debug\MJSniff.pdb
+E:\AIIMS\sniff\MJsniffer\MJSniffer_29_09_2014\MJSniff\obj\Debug\MJsniffer.csprojResolveAssemblyReference.cache
+E:\AIIMS\sniff\MJsniffer\MJSniffer_29_09_2014\MJSniff\obj\Debug\MJsniffer.MJsnifferForm.resources
+E:\AIIMS\sniff\MJsniffer\MJSniffer_29_09_2014\MJSniff\obj\Debug\MJSniff.Properties.Resources.resources
+E:\AIIMS\sniff\MJsniffer\MJSniffer_29_09_2014\MJSniff\obj\Debug\MJsniffer.csproj.GenerateResource.Cache
+E:\AIIMS\Philips\Capturing Application\MJSniff\obj\Debug\MJSniff.exe
+E:\AIIMS\Philips\Capturing Application\MJSniff\obj\Debug\MJSniff.pdb
