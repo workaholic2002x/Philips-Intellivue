@@ -10,5 +10,3 @@ Interface can be UART/Serial port or LAN. The LAN Interface work is not complete
 DATA DECODING AND STORING The module has two primary components : Numeric data, Waveform data. In this library, the Numeric component is handled. For numeric ploting, user may need to tweek and compare with real instrument.
 
 You may put your comments at intellivue.philips@gmail.com
-or 
-Chandan2002x@gmail.com
